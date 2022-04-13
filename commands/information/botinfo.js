@@ -39,7 +39,7 @@ module.exports = {
             process.memoryUsage().heapUsed / 1024 / 1024
           )}MB`
       )
-      .addField("HATEM HARAS AUNTY LETTY ARE GOATS", `No cap`)
+      .addField("HATEM HARAS AUNTY SUMA LETTY ARE GOATS", `No cap`)
       .setTimestamp()
       .setFooter({
         text: `${message.author.tag}`,
