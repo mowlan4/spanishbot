@@ -1,5 +1,6 @@
 /* eslint-disable */
 const discord = require("discord.js");
+import fetch from "node-fetch";
 
 module.exports = {
   name: "kiss",
