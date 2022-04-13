@@ -5,11 +5,7 @@ module.exports = {
   name: "kiss",
   aliases: ["xx"],
   category: "fun",
-  description: "kiss a user",
-  usage: `<${client.prefix}kiss> [user]`,
-  ownerOnly: false,
-  guildOnly: false,
-  requiredPerms: [],
+  description: "kisses a user",
   enabled: true,
   run: async (client, message, args) => {
     if (!message.mentions.users.first()) {
