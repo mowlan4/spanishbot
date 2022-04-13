@@ -6,7 +6,7 @@ module.exports = {
   aliases: ["serverinfo", "server"],
   category: "information",
   description: "Displays server information",
-  usage: "$serverinfo",
+  usage: "serverinfo",
   ownerOnly: false,
   guildOnly: false,
   requiredPerms: [],

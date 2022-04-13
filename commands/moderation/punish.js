@@ -11,7 +11,7 @@ module.exports = {
   aliases: [],
   category: "moderation",
   description: "punish a user",
-  usage: "<$punish [user]> ",
+  usage: "<punish [user]> ",
   ownerOnly: false,
   guildOnly: true,
   requiredPerms: ["BAN_MEMBERS"],

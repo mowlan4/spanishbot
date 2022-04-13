@@ -6,7 +6,7 @@ module.exports = {
   aliases: ["icon", "pfp"],
   category: "utility",
   description: "Get the avatar URL of the tagged user(s), or your own avatar",
-  usage: "<$avatar> [user]",
+  usage: "<avatar> [user]",
   ownerOnly: false,
   guildOnly: false,
   requiredPerms: [],
