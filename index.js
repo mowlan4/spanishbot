@@ -13,7 +13,7 @@ client.categories = new Set();
 client.commands = new Collection();
 client.aliases = new Collection();
 client.events = new Collection();
-client.prefix = ":";
+client.prefix = "$";
 // eslint-disable-next-line no-loss-of-precision
 client.owners = [396479397537906689];
 //client.owners = [];
