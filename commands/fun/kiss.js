@@ -21,7 +21,7 @@ module.exports = {
     try {
       const response = await fetch(`https://nekos.life/api/kiss`);
       const data = await response.json();
-      message.reply(data.url.toString());
+      console.log(data);
     } catch (err) {}
   },
 };
