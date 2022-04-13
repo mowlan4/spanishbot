@@ -4,7 +4,7 @@ import fetch from "node-fetch";
 
 module.exports = {
   name: "kiss",
-  aliases: [""],
+  aliases: ["xx"],
   category: "fun",
   description: "kiss a user",
   usage: "<$kiss> [user]",
